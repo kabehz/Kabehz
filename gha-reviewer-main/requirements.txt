@@ -1,0 +1,3 @@
+# requirements.txt
+
+Contenido de ejemplo para requirements.txt.
